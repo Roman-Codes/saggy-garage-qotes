@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/saggy-garage-qotes/static/css/main.073c9b0a.css",
-    "main.js": "/saggy-garage-qotes/static/js/main.706eef62.js",
+    "main.css": "/saggy-garage-qotes/static/css/main.7dfffd4e.css",
+    "main.js": "/saggy-garage-qotes/static/js/main.2edcf29a.js",
     "static/js/498.86620a08.chunk.js": "/saggy-garage-qotes/static/js/498.86620a08.chunk.js",
     "static/js/703.8268947d.chunk.js": "/saggy-garage-qotes/static/js/703.8268947d.chunk.js",
     "static/js/528.99283870.chunk.js": "/saggy-garage-qotes/static/js/528.99283870.chunk.js",
@@ -26,15 +26,15 @@
     "static/media/controlRight.png": "/saggy-garage-qotes/static/media/controlRight.c17c7f9a4f9964a7b376.png",
     "static/media/drillingSide.png": "/saggy-garage-qotes/static/media/drillingSide.81a4e97d4e6af12e6c18.png",
     "index.html": "/saggy-garage-qotes/index.html",
-    "main.073c9b0a.css.map": "/saggy-garage-qotes/static/css/main.073c9b0a.css.map",
-    "main.706eef62.js.map": "/saggy-garage-qotes/static/js/main.706eef62.js.map",
+    "main.7dfffd4e.css.map": "/saggy-garage-qotes/static/css/main.7dfffd4e.css.map",
+    "main.2edcf29a.js.map": "/saggy-garage-qotes/static/js/main.2edcf29a.js.map",
     "498.86620a08.chunk.js.map": "/saggy-garage-qotes/static/js/498.86620a08.chunk.js.map",
     "703.8268947d.chunk.js.map": "/saggy-garage-qotes/static/js/703.8268947d.chunk.js.map",
     "528.99283870.chunk.js.map": "/saggy-garage-qotes/static/js/528.99283870.chunk.js.map",
     "787.36f561f5.chunk.js.map": "/saggy-garage-qotes/static/js/787.36f561f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.706eef62.js"
+    "static/css/main.7dfffd4e.css",
+    "static/js/main.2edcf29a.js"
   ]
 }
